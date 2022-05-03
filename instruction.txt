@@ -1,0 +1,19 @@
+npm install --save body-parser
+npm install --save cookie-parser
+npm install --save express
+npm install --save morgan
+npm install --save nodemon
+npm install --save validator
+npm install --save winston
+
+npm install --save body-parser multer
+
+ npm install --save  prisma
+ npm install --save  @prisma/client
+ npm install bcrypt --save
+ npm install dotenv --save
+ npm install joi --save
+ npm install http-status-codes --save
+ npm install express-rate-limit --save
+ npm install express-slow-down --save
+  
