@@ -1,3 +1,6 @@
 npx prisma migrate dev --name init // run migration file 
 
 npx prisma db pull --force  //for create modal from database tables 
+
+npm run seed // for seeder run
+npx prisma studio //for check database in prisma studio (Alternate of phpmyadmin)

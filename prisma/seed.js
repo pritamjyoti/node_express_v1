@@ -1,0 +1,1 @@
+require('./seed/product_type');
