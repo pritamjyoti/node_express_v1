@@ -7,11 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "be:start": "node server.js",
     "cloud": "nodemon server.js",
-    "start": "npm run check && npm run be:start"
-  },
-  "prisma": {
+    "start": "npm run check && npm run be:start",
     "seed": "node prisma/seed.js"
   },
+
   "author": "",
   "license": "ISC",
   "dependencies": {
